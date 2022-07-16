@@ -20,7 +20,7 @@ https://platzi.com/p/anthony_manotoa/
 ya que las notas del curso fueron creadas por el, yo modifique las mismas para que en vez de tener las graficas vistas en clase tuviera visualizaciones con plotly, que es una libreria que permite interactuar con los datos y que por esto puede resultar mas amistosa a la hora de usarla.
 
 ## Puedes utilizar Deepnote para trabajar interactivamente con los notebooks siguiendo el enlace de este botón:
-[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/launch?url=https%3A%2F%2Fgithub.com%2Fpachocamacho1990%2Fplatzi-curso-estadistica-descriptiva-2021)
+[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/@aazg/Curso-estadistica-descriptiva-2021-platzi-f9350738-38bd-458a-b2ca-e2031ac489b4)
 
 ## Licencia.
 Este proyecto es OpenSource, siente en libertad de copiarlo y mejorarlo tanto como deesees.
